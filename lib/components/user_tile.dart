@@ -21,8 +21,16 @@ class UserTile extends StatelessWidget {
           width: 100,
           child: Row(
             children: [
-              IconButton(icon: Icon(Icons.edit), onPressed: () {}),
-              IconButton(icon: Icon(Icons.delete), onPressed: () {}),
+              IconButton(
+                icon: Icon(Icons.edit),
+                color: Colors.orange,
+                onPressed: () {},
+              ),
+              IconButton(
+                icon: Icon(Icons.delete),
+                color: Colors.red,
+                onPressed: () {},
+              ),
             ],
           ),
         ));
