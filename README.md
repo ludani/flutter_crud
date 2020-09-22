@@ -1,6 +1,8 @@
-# flutter_crud
+# Flutter: Desenvolva um Cadastro Completo [2020]
 
-A new Flutter project.
+## Cod3r
+Curso ministrado pelo: Leonardo Leitão 
+
 
 ## Getting Started
 
