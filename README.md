@@ -1,7 +1,7 @@
 # Flutter: Desenvolva um Cadastro Completo [2020]
 
 ## Cod3r
-Curso ministrado pelo: Leonardo Leitão 
+Curso ministrado por: Leonardo Leitão 
 
 
 ## Getting Started
